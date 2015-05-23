@@ -1,0 +1,51 @@
+/* www.gotuscany.co.uk */
+ul.css-tabs { 
+	margin:0!important;
+	padding:0;
+	height:30px;
+	border-bottom:1px solid#C4932C;
+	}
+ul.css-tabs li {
+	float:left;
+	padding:0;
+	margin:0;
+	list-style-type:none;
+	}
+ul.css-tabs a {
+	float:left;
+	font-size:15px;
+	display:block;
+	padding:5px 25px;
+	text-decoration:none;
+	border:1px solid#C4932C;
+	border-bottom:0px;
+	height:18px;
+	background-color:#F7F6E1;
+	color:#87A64A;
+	margin-right:3px;
+	margin-left:5px;
+	position:relative;
+	top:1px;
+	outline:0;
+	-moz-border-radius:4px 4px 0 0;
+	-webkit-border-radius:4px 4px 0 0;
+	border-radius:4px 4px 0 0;
+	}
+ul.css-tabs a:hover {
+	background-color:#ffffff;
+	color:#999999;
+	}
+ul.css-tabs a.current { 
+	background-color:#C4932C;
+	border-bottom:1px solid #C4932C;
+	color:#fff;
+	cursor:default;
+	}
+.css-panes div { 
+	display:none;
+	border:1px solid #666;
+	border-width:0 1px 1px 1px;
+	min-height:150px;
+	padding:15px 20px;
+	background-color:#ddd;
+	}

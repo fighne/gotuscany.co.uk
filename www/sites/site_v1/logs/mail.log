@@ -1,0 +1,4 @@
+2010-09-25 15:25:18 u53868371 4AgHvx-1OzUkg3gsV-0001Ir |< REMOTE=87.112.177.74 SCRIPT=/sendMail.php -- /usr/sbin/sendmail -t -i
+2010-09-25 15:25:18 u53868371 4AgHvx-1OzUkg3gsV-0001Ir WW invalid sender address: " your email address here please"
+2010-09-25 15:25:18 u53868371 4AgHvx-1OzUkg3gsV-0001Ir <= S=cgi-mailer-bounces-289837319@kundenserver.de SZ=646 D=0 SID=289837319
+2010-09-25 15:25:19 u53868371 4AgHvx-1OzUkg3gsV-0001Ir => enquiries@villamaremma.co.uk msmtp.kundenserver.de[172.19.35.7] 250 Message 0Ls5Pv-1OnQhc0CmV-013Kzx accepted by mreu1.kundenserver.de

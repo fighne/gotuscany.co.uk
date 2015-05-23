@@ -1,0 +1,180 @@
+/* Global Styles */
+
+body {
+	margin:0px;
+	/*background-color: #CC3300;*/
+	color: #000000;
+	font-size: 11px;
+	}
+	
+td {
+	font:14px arial;
+	color:#FFFFFF;
+	}
+	
+a {
+	color: #cc0000;
+	text-decoration:none;
+	font-weight:bold;
+	}
+	
+a:hover {
+	color: #0000FF;
+	text-decoration:none;
+	}
+a:hover {
+	text-decoration: underline;
+}
+	
+/* ID Styles */
+	
+#navigation a {
+	font:10px arial;
+	color: #FFFFFF;
+	text-decoration:none;
+	letter-spacing:0.1em;
+	font-style: normal;
+	font-weight: bold;
+	}
+	
+#navigation a:hover {
+	color: #0000CC;
+	text-decoration:none;
+	font-style: normal;
+	font-weight: bold;
+	}
+
+#padding {
+	}
+	
+
+
+.sidebarText {
+	color: #FFFFFF;
+	line-height:16px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: italic;
+	letter-spacing: 1px;
+	}
+	
+.bodyText {
+	line-height:14px;
+	color:#000000;
+	font-family: arial;
+	font-size: 12px;
+	font-weight: normal;
+	font-style: normal;
+	letter-spacing: normal;
+	word-spacing: normal;
+	}
+	
+.pageName {
+	color: #FFFFFF;
+	letter-spacing:0.1em;
+	line-height:50px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 30px;
+	font-style: italic;
+	font-weight: bold;
+	font-stretch: narrower;
+	text-shadow: 2 pixels;
+	}
+	
+.subHeader {
+	color: #CC3300;
+	font-weight:normal;
+	line-height:26px;
+	letter-spacing:0.1em;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 24px;
+	font-style: italic;
+	}
+	
+.navText {
+	font:10px arial;
+	color: #FFFFFF;
+	letter-spacing:normal;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	}
+	
+	
+a:link {
+	color: #0000CC;
+}
+
+a:link {
+	color: #0066FF;
+	text-decoration: none;
+}
+a:visited {
+	color: #0000CC;
+}
+a:visited {
+	text-decoration: none;
+}
+a:active {
+	color: #000099;
+}
+a:active {
+	text-decoration: none;
+}
+.blue {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	color: #0033FF;
+}
+.tabletext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: 11px;
+	font-weight: bold;
+	color: #000099;
+	letter-spacing: 0px;
+}
+.CONTACTINFO {
+	line-height:12px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: italic;
+	color: #FFFFFF;
+	text-transform: none;
+	letter-spacing: 0px;
+}
+.boldSidebar {
+	line-height:18px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: italic;
+	letter-spacing: 1px;
+	color: #FFFFFF;
+}
+.largeSidebar {
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.formtext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #CCCCCC;
+}
+.closebodytext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 13px;
+	color: #000000;
+}
+.mainbodytext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 20px;
+	font-weight: normal;
+	color: #000000;
+}
